@@ -1,6 +1,6 @@
 # Trained image classification models for Keras
 
-This repository contains code for the following Keras models:
+This repository is cloned from https://github.com/fchollet/deep-learning-models and contains code for the following Keras models:
 
 - VGG16
 - VGG19
@@ -88,3 +88,5 @@ Additionally, don't forget to [cite Keras](https://keras.io/getting-started/faq/
 - The ResNet50 weights are ported from the ones [released by Kaiming He](https://github.com/KaimingHe/deep-residual-networks) under the [MIT license](https://github.com/KaimingHe/deep-residual-networks/blob/master/LICENSE).
 - The VGG16 and VGG19 weights are ported from the ones [released by VGG at Oxford](http://www.robots.ox.ac.uk/~vgg/research/very_deep/) under the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/).
 - The Inception v3 weights are trained by ourselves and are released under the MIT license.
+## iNew example mage2label.py
+The image2label.py is an example of giving results in json format.
