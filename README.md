@@ -72,7 +72,7 @@ x = preprocess_input(x)
 block4_pool_features = model.predict(x)
 ```
 
-## New example mage2label.py
+### New example mage2label.py
 The image2label.py is an example of giving results in json format.
 
 ## References
